@@ -1,0 +1,9 @@
+Hello!
+snake is now available as an app (snake.exe(windows) and snake(linux), if you use chromeos, then I am sorry, but there is no executable file type for chromeos)
+
+NO ADMIN RIGHTS ARE REQUIRED FOR THE APP'S USE This means that it can be run on the surfaces
+When downloading the app, you will probably get a lot of popups telling you it is a virus, click install or run anyway
+(often you have to click the 3 dots or learn more to get that option)
+you probably won't get as many popups for linux
+I know that this works on ubuntu, but I don't know whether it will run on other distros
+Enjoy!
